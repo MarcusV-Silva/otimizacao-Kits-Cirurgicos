@@ -1,3 +1,5 @@
+Copyright 2024 Silva M. V. 
+
 # Otimizando a elaboração de Kits Cirúrgicos
 
 ## Este repositório contém os códigos relativos ao projeto de iniciação científica intitulado Abordagens Computacionais para Análise e Determinação de Kits Cirúrgicos fomentado pelo CNPq
