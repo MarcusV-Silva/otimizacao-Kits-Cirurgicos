@@ -4,7 +4,7 @@ Copyright 2024 Silva M. V.
 
 ## Este repositório contém os códigos relativos ao projeto de iniciação científica intitulado Abordagens Computacionais para Análise e Determinação de Kits Cirúrgicos fomentado pelo CNPq
 
-O projeto, além de estar vinculado ao CNPq, também é vinculado ao Instituto de Ciências Matemáticas e de Computação (ICMC) da Universidade de São Paulo (USP). Esse tem como autor o aluno **[Marcus Vinicius da Silva](www.linkedin.com/in/silvamarcuss)** e orientado pela porfessora **[Dra Maristela Oliveira dos Santos](www.linkedin.com/in/maristela-santos-02a18b24)**.
+O projeto, além de estar vinculado ao CNPq, também é vinculado ao Instituto de Ciências Matemáticas e de Computação (ICMC) da Universidade de São Paulo (USP). Esse tem como autor o aluno **[Marcus Vinicius da Silva](www.linkedin.com/in/silvamarcuss/)** e orientado pela porfessora **[Dra Maristela Oliveira dos Santos](www.linkedin.com/in/maristela-santos-02a18b24/)**.
 
 ### Contextualizando o Projeto
 
